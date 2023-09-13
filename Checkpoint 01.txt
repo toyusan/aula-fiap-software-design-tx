@@ -1,0 +1,20 @@
+Enunciado:
+"Você e sua equipe têm a empolgante oportunidade de participar de um projeto de desenvolvimento de um sistema de reserva de passagens de uma companhia aérea. O sistema permitirá que os usuários pesquisem voos, façam reservas, efetuem pagamentos e gerenciem suas reservas. O projeto requer que vocês criem os diagramas da UML para representar diferentes aspectos do sistema. A prova consistirá na criação de três tipos de diagramas: Diagrama de Caso de Uso, Diagrama de Sequência e Diagrama de Atividades.
+
+Tarefa 1: Diagrama de Caso de Uso
+
+Vocês devem criar um Diagrama de Caso de Uso para o sistema de reserva de passagens. Identifiquem os atores relevantes (usuários, sistema de pagamento) e liste os casos de uso que representam as funcionalidades do sistema, como Pesquisar Voos, Fazer Reserva, Efetuar Pagamento, Gerenciar Reservas, entre outros. Estabeleçam as relações entre os atores e os casos de uso.
+
+Tarefa 2: Diagrama de Sequência
+
+Criem um Diagrama de Sequência para o caso de uso 'Fazer Reserva'. Mostrem a interação entre o ator (usuário) e o sistema durante o processo de reserva de passagem. Detalhem as mensagens trocadas entre o ator e o sistema, incluindo a seleção de voos, informações de pagamento e confirmação da reserva.
+
+Tarefa 3: Diagrama de Atividades
+
+Elaborem um Diagrama de Atividades para o processo de 'Efetuar Pagamento'. Descrevam as etapas envolvidas no processo de pagamento, desde a escolha da forma de pagamento até a finalização da transação. Utilizem atividades, decisões e forks/joins para representar o fluxo do processo.
+
+Vocês têm duas semanas para concluir a prova em grupos de até 5 alunos. Certifiquem-se de que todos os membros do grupo participem ativamente na criação dos diagramas. Lembrem-se de que a clareza na representação e a coerência entre os diagramas serão avaliadas.
+
+Entreguem os diagramas em formato digital até a data limite via [método de entrega definido por você]. Boa sorte e aproveitem essa oportunidade para praticar e aplicar os conceitos da UML em um cenário real de desenvolvimento!"
+
+Espero que essa prova estimule seus alunos a trabalharem em equipe e a aprofundarem seus conhecimentos na criação dos diagramas da UML. Boa aplicação da prova!
